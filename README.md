@@ -8,5 +8,6 @@ The mat is designed to allow for you to put whatever background you'd like.
 ## Examples
 
 Here are some examples of the mat in use:
+![Chillin (It's me)](./Media/Chillin.png)
 ![A dark sand thingy](./Media/Dark.png)
 ![Kimi No Na Wa (Your Name)](./Media/KimiNoNaWa.png)
